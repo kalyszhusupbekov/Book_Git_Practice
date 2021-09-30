@@ -4,3 +4,16 @@ putting new lines
 
 we will pull/update
 
+updating summary
+
+we finally have java tomorrow
+
+line 1
+
+line 2
+
+line 3
+
+line 4
+
+line 6
